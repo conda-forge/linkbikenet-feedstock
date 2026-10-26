@@ -29,6 +29,7 @@ requirements:
     - scipy
     - geojson
     - tqdm
+    - bikenetlib
 
 tests:
   - python:
@@ -43,9 +44,9 @@ about:
   summary: BikeNetKit Python package to link disconnected bicycle network components
   license: AGPL-3.0-only
   license_file: LICENSE
-  homepage: https://bikenetkit.org/linkbikenet/
-  documentation: https://docs.bikenetkit.org/LinkBikeNet/
-  repository: https://github.com/BikeNetKit/LinkBikeNet/
+  homepage: https://bikenetkit.org/linkbikenet
+  documentation: https://docs.bikenetkit.org/LinkBikeNet
+  repository: https://github.com/BikeNetKit/LinkBikeNet
 
 extra:
   recipe-maintainers:
