@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "0.9.0"
+  version: "0.10.0"
 
 package:
   name: linkbikenet
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/l/linkbikenet/linkbikenet-${{ version }}.tar.gz
-  sha256: 72ad4926e6e77f9048d48ff28e12bd48548624e8a6d72ddf4af8cc6c3f64405b
+  sha256: f784f234f9e83e0e5699f9ed8013a5c5a93978f14fb1be144d1fc850d27c7623
 
 build:
   number: 0
