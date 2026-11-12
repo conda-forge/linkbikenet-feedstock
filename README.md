@@ -3,15 +3,15 @@ About linkbikenet-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/linkbikenet-feedstock/blob/main/LICENSE.txt)
 
-Home: https://bikenetkit.org/linkbikenet/
+Home: https://bikenetkit.org/linkbikenet
 
 Package license: AGPL-3.0-only
 
 Summary: BikeNetKit Python package to link disconnected bicycle network components
 
-Development: https://github.com/BikeNetKit/LinkBikeNet/
+Development: https://github.com/BikeNetKit/LinkBikeNet
 
-Documentation: https://docs.bikenetkit.org/LinkBikeNet/
+Documentation: https://docs.bikenetkit.org/LinkBikeNet
 
 Current build status
 ====================
